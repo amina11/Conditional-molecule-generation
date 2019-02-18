@@ -1,0 +1,506 @@
+num_train: 113885	num_valid: 10000
+a Conv1d inited
+a Conv1d inited
+a Conv1d inited
+a Linear inited
+a Linear inited
+a Linear inited
+a Linear inited
+a GRU inited
+a Linear inited
+>>>>average [92mtraining[0m of epoch 0: loss 25.68396 perp 25.14338 kl 0.54058
+>>>>average [93mvalid[0m of epoch 0: loss 20.32849 perp 20.07652 kl 0.25198
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 1: loss 19.40469 perp 19.17882 kl 0.22587
+>>>>average [93mvalid[0m of epoch 1: loss 18.02160 perp 17.78496 kl 0.23665
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 2: loss 16.66476 perp 16.40355 kl 0.26122
+>>>>average [93mvalid[0m of epoch 2: loss 15.02684 perp 14.75215 kl 0.27469
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 3: loss 14.02384 perp 13.73697 kl 0.28687
+>>>>average [93mvalid[0m of epoch 3: loss 13.15394 perp 12.86800 kl 0.28594
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 4: loss 12.71271 perp 12.41938 kl 0.29334
+>>>>average [93mvalid[0m of epoch 4: loss 12.02843 perp 11.73404 kl 0.29438
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 5: loss 11.86060 perp 11.56278 kl 0.29781
+>>>>average [93mvalid[0m of epoch 5: loss 11.36735 perp 11.07339 kl 0.29397
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 6: loss 11.22543 perp 10.92894 kl 0.29648
+>>>>average [93mvalid[0m of epoch 6: loss 10.80331 perp 10.50637 kl 0.29695
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 7: loss 10.76504 perp 10.46658 kl 0.29846
+>>>>average [93mvalid[0m of epoch 7: loss 10.35268 perp 10.05798 kl 0.29470
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 8: loss 10.33898 perp 10.03947 kl 0.29951
+>>>>average [93mvalid[0m of epoch 8: loss 9.96286 perp 9.66732 kl 0.29554
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 9: loss 9.94384 perp 9.64598 kl 0.29786
+>>>>average [93mvalid[0m of epoch 9: loss 9.59130 perp 9.29406 kl 0.29723
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 10: loss 9.63620 perp 9.33816 kl 0.29804
+>>>>average [93mvalid[0m of epoch 10: loss 9.32489 perp 9.02565 kl 0.29924
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 11: loss 9.35209 perp 9.05068 kl 0.30141
+>>>>average [93mvalid[0m of epoch 11: loss 9.01824 perp 8.71526 kl 0.30298
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 12: loss 9.08399 perp 8.78172 kl 0.30227
+>>>>average [93mvalid[0m of epoch 12: loss 8.82173 perp 8.52353 kl 0.29820
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 13: loss 8.86618 perp 8.56422 kl 0.30196
+>>>>average [93mvalid[0m of epoch 13: loss 8.74167 perp 8.43872 kl 0.30295
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 14: loss 8.62059 perp 8.31684 kl 0.30375
+>>>>average [93mvalid[0m of epoch 14: loss 8.72195 perp 8.41864 kl 0.30331
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 15: loss 8.43342 perp 8.12931 kl 0.30411
+>>>>average [93mvalid[0m of epoch 15: loss 8.20881 perp 7.90471 kl 0.30409
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 16: loss 8.21647 perp 7.91118 kl 0.30529
+>>>>average [93mvalid[0m of epoch 16: loss 7.87904 perp 7.57818 kl 0.30086
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 17: loss 8.03401 perp 7.72881 kl 0.30520
+>>>>average [93mvalid[0m of epoch 17: loss 7.69062 perp 7.38871 kl 0.30191
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 18: loss 7.85367 perp 7.54874 kl 0.30494
+>>>>average [93mvalid[0m of epoch 18: loss 7.75065 perp 7.44823 kl 0.30242
+>>>>average [92mtraining[0m of epoch 19: loss 7.70451 perp 7.39803 kl 0.30648
+>>>>average [93mvalid[0m of epoch 19: loss 7.42063 perp 7.11771 kl 0.30292
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 20: loss 7.53887 perp 7.23308 kl 0.30579
+>>>>average [93mvalid[0m of epoch 20: loss 7.28538 perp 6.98256 kl 0.30282
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 21: loss 7.40415 perp 7.09777 kl 0.30638
+>>>>average [93mvalid[0m of epoch 21: loss 7.08664 perp 6.78193 kl 0.30471
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 22: loss 7.24007 perp 6.93435 kl 0.30571
+>>>>average [93mvalid[0m of epoch 22: loss 6.92874 perp 6.62797 kl 0.30078
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 23: loss 7.09761 perp 6.79301 kl 0.30459
+>>>>average [93mvalid[0m of epoch 23: loss 6.76709 perp 6.46524 kl 0.30186
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 24: loss 6.99666 perp 6.69182 kl 0.30484
+>>>>average [93mvalid[0m of epoch 24: loss 6.74221 perp 6.43466 kl 0.30755
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 25: loss 6.85716 perp 6.55027 kl 0.30689
+>>>>average [93mvalid[0m of epoch 25: loss 6.73106 perp 6.42785 kl 0.30321
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 26: loss 6.70143 perp 6.39658 kl 0.30485
+>>>>average [93mvalid[0m of epoch 26: loss 6.61758 perp 6.31443 kl 0.30314
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 27: loss 6.56097 perp 6.25723 kl 0.30374
+>>>>average [93mvalid[0m of epoch 27: loss 6.37328 perp 6.07135 kl 0.30193
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 28: loss 6.47991 perp 6.17418 kl 0.30573
+>>>>average [93mvalid[0m of epoch 28: loss 6.39584 perp 6.09284 kl 0.30299
+>>>>average [92mtraining[0m of epoch 29: loss 6.34570 perp 6.04023 kl 0.30547
+>>>>average [93mvalid[0m of epoch 29: loss 6.06149 perp 5.75735 kl 0.30414
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 30: loss 6.20035 perp 5.89431 kl 0.30604
+>>>>average [93mvalid[0m of epoch 30: loss 5.92421 perp 5.62196 kl 0.30225
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 31: loss 6.09197 perp 5.78548 kl 0.30650
+>>>>average [93mvalid[0m of epoch 31: loss 5.82371 perp 5.52142 kl 0.30229
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 32: loss 6.02101 perp 5.71222 kl 0.30879
+>>>>average [93mvalid[0m of epoch 32: loss 5.76144 perp 5.45421 kl 0.30723
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 33: loss 5.84937 perp 5.54003 kl 0.30934
+>>>>average [93mvalid[0m of epoch 33: loss 5.63821 perp 5.33029 kl 0.30791
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 34: loss 5.77318 perp 5.46199 kl 0.31119
+>>>>average [93mvalid[0m of epoch 34: loss 5.91303 perp 5.60328 kl 0.30975
+>>>>average [92mtraining[0m of epoch 35: loss 5.64360 perp 5.32978 kl 0.31382
+>>>>average [93mvalid[0m of epoch 35: loss 5.36266 perp 5.04993 kl 0.31273
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 36: loss 5.52604 perp 5.21068 kl 0.31535
+>>>>average [93mvalid[0m of epoch 36: loss 5.32141 perp 5.00740 kl 0.31400
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 37: loss 5.41456 perp 5.09673 kl 0.31782
+>>>>average [93mvalid[0m of epoch 37: loss 5.15342 perp 4.83903 kl 0.31440
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 38: loss 5.27353 perp 4.95470 kl 0.31883
+>>>>average [93mvalid[0m of epoch 38: loss 5.10810 perp 4.79289 kl 0.31521
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 39: loss 5.16526 perp 4.84431 kl 0.32095
+>>>>average [93mvalid[0m of epoch 39: loss 4.87972 perp 4.56075 kl 0.31897
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 40: loss 5.03801 perp 4.71445 kl 0.32356
+>>>>average [93mvalid[0m of epoch 40: loss 4.81929 perp 4.49766 kl 0.32163
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 41: loss 4.90557 perp 4.58095 kl 0.32462
+>>>>average [93mvalid[0m of epoch 41: loss 4.76956 perp 4.44542 kl 0.32414
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 42: loss 4.77694 perp 4.45081 kl 0.32613
+>>>>average [93mvalid[0m of epoch 42: loss 4.65886 perp 4.33148 kl 0.32738
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 43: loss 4.69757 perp 4.36879 kl 0.32878
+>>>>average [93mvalid[0m of epoch 43: loss 4.54444 perp 4.21716 kl 0.32728
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 44: loss 4.55396 perp 4.22341 kl 0.33055
+>>>>average [93mvalid[0m of epoch 44: loss 4.45151 perp 4.11941 kl 0.33209
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 45: loss 4.41911 perp 4.08846 kl 0.33065
+>>>>average [93mvalid[0m of epoch 45: loss 4.25738 perp 3.93368 kl 0.32370
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 46: loss 4.38232 perp 4.05045 kl 0.33187
+>>>>average [93mvalid[0m of epoch 46: loss 4.20416 perp 3.87600 kl 0.32815
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 47: loss 4.23169 perp 3.89964 kl 0.33205
+>>>>average [93mvalid[0m of epoch 47: loss 4.04781 perp 3.71896 kl 0.32886
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 48: loss 4.19144 perp 3.85687 kl 0.33457
+>>>>average [93mvalid[0m of epoch 48: loss 3.91936 perp 3.59024 kl 0.32912
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 49: loss 4.02248 perp 3.68927 kl 0.33320
+>>>>average [93mvalid[0m of epoch 49: loss 3.88878 perp 3.55922 kl 0.32956
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 50: loss 3.93729 perp 3.60558 kl 0.33170
+>>>>average [93mvalid[0m of epoch 50: loss 3.85973 perp 3.53118 kl 0.32854
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 51: loss 3.85070 perp 3.51886 kl 0.33184
+>>>>average [93mvalid[0m of epoch 51: loss 3.71458 perp 3.38854 kl 0.32604
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 52: loss 3.76710 perp 3.43544 kl 0.33166
+>>>>average [93mvalid[0m of epoch 52: loss 3.67750 perp 3.34857 kl 0.32892
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 53: loss 3.68631 perp 3.35227 kl 0.33404
+>>>>average [93mvalid[0m of epoch 53: loss 3.48130 perp 3.15432 kl 0.32698
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 54: loss 3.58205 perp 3.25049 kl 0.33156
+>>>>average [93mvalid[0m of epoch 54: loss 3.44505 perp 3.11640 kl 0.32864
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 55: loss 3.51561 perp 3.18356 kl 0.33204
+>>>>average [93mvalid[0m of epoch 55: loss 3.33298 perp 3.00276 kl 0.33022
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 56: loss 3.44014 perp 3.10786 kl 0.33228
+>>>>average [93mvalid[0m of epoch 56: loss 3.40988 perp 3.07816 kl 0.33172
+>>>>average [92mtraining[0m of epoch 57: loss 3.35960 perp 3.02632 kl 0.33328
+>>>>average [93mvalid[0m of epoch 57: loss 3.29580 perp 2.96864 kl 0.32716
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 58: loss 3.29158 perp 2.95737 kl 0.33421
+>>>>average [93mvalid[0m of epoch 58: loss 3.22821 perp 2.89530 kl 0.33291
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 59: loss 3.22091 perp 2.88544 kl 0.33547
+>>>>average [93mvalid[0m of epoch 59: loss 3.10085 perp 2.76995 kl 0.33090
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 60: loss 3.12753 perp 2.79287 kl 0.33466
+>>>>average [93mvalid[0m of epoch 60: loss 3.02357 perp 2.69225 kl 0.33132
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 61: loss 3.06752 perp 2.73316 kl 0.33436
+>>>>average [93mvalid[0m of epoch 61: loss 2.98804 perp 2.65678 kl 0.33126
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 62: loss 2.98757 perp 2.65300 kl 0.33456
+>>>>average [93mvalid[0m of epoch 62: loss 2.93214 perp 2.60305 kl 0.32909
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 63: loss 2.97886 perp 2.64471 kl 0.33414
+>>>>average [93mvalid[0m of epoch 63: loss 3.11901 perp 2.78103 kl 0.33798
+>>>>average [92mtraining[0m of epoch 64: loss 2.85322 perp 2.51814 kl 0.33509
+>>>>average [93mvalid[0m of epoch 64: loss 2.81169 perp 2.48061 kl 0.33108
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 65: loss 2.88238 perp 2.54568 kl 0.33670
+>>>>average [93mvalid[0m of epoch 65: loss 2.65190 perp 2.31958 kl 0.33232
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 66: loss 2.70012 perp 2.36727 kl 0.33285
+>>>>average [93mvalid[0m of epoch 66: loss 2.64230 perp 2.31311 kl 0.32919
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 67: loss 2.66833 perp 2.33722 kl 0.33111
+>>>>average [93mvalid[0m of epoch 67: loss 2.68226 perp 2.35166 kl 0.33061
+>>>>average [92mtraining[0m of epoch 68: loss 2.63575 perp 2.30308 kl 0.33267
+>>>>average [93mvalid[0m of epoch 68: loss 2.50857 perp 2.18007 kl 0.32850
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 69: loss 2.58012 perp 2.24744 kl 0.33268
+>>>>average [93mvalid[0m of epoch 69: loss 2.52911 perp 2.19903 kl 0.33008
+>>>>average [92mtraining[0m of epoch 70: loss 2.53337 perp 2.20281 kl 0.33056
+>>>>average [93mvalid[0m of epoch 70: loss 2.85865 perp 2.52639 kl 0.33226
+>>>>average [92mtraining[0m of epoch 71: loss 2.45915 perp 2.12744 kl 0.33171
+>>>>average [93mvalid[0m of epoch 71: loss 2.35667 perp 2.03014 kl 0.32653
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 72: loss 2.41778 perp 2.08732 kl 0.33046
+>>>>average [93mvalid[0m of epoch 72: loss 2.29685 perp 1.96935 kl 0.32750
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 73: loss 2.36089 perp 2.03102 kl 0.32988
+>>>>average [93mvalid[0m of epoch 73: loss 2.29472 perp 1.96895 kl 0.32578
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 74: loss 2.32517 perp 1.99579 kl 0.32938
+>>>>average [93mvalid[0m of epoch 74: loss 2.17135 perp 1.84454 kl 0.32681
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 75: loss 2.26389 perp 1.93639 kl 0.32751
+>>>>average [93mvalid[0m of epoch 75: loss 2.17817 perp 1.85509 kl 0.32308
+>>>>average [92mtraining[0m of epoch 76: loss 2.21521 perp 1.88833 kl 0.32688
+>>>>average [93mvalid[0m of epoch 76: loss 2.10277 perp 1.78032 kl 0.32245
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 77: loss 2.15303 perp 1.82845 kl 0.32458
+>>>>average [93mvalid[0m of epoch 77: loss 2.17165 perp 1.84888 kl 0.32277
+>>>>average [92mtraining[0m of epoch 78: loss 2.12427 perp 1.79902 kl 0.32525
+>>>>average [93mvalid[0m of epoch 78: loss 2.05917 perp 1.73885 kl 0.32033
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 79: loss 2.16740 perp 1.83927 kl 0.32813
+>>>>average [93mvalid[0m of epoch 79: loss 2.04756 perp 1.72458 kl 0.32298
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 80: loss 2.00446 perp 1.68087 kl 0.32359
+>>>>average [93mvalid[0m of epoch 80: loss 2.02082 perp 1.70530 kl 0.31552
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 81: loss 1.99959 perp 1.67806 kl 0.32154
+>>>>average [93mvalid[0m of epoch 81: loss 1.93510 perp 1.61638 kl 0.31872
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 82: loss 1.94084 perp 1.62059 kl 0.32025
+>>>>average [93mvalid[0m of epoch 82: loss 1.91207 perp 1.59274 kl 0.31933
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 83: loss 1.94203 perp 1.62119 kl 0.32083
+>>>>average [93mvalid[0m of epoch 83: loss 1.82455 perp 1.50780 kl 0.31675
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 84: loss 2.01303 perp 1.68820 kl 0.32482
+>>>>average [93mvalid[0m of epoch 84: loss 1.90491 perp 1.58966 kl 0.31525
+>>>>average [92mtraining[0m of epoch 85: loss 1.81381 perp 1.49537 kl 0.31844
+>>>>average [93mvalid[0m of epoch 85: loss 1.78128 perp 1.46729 kl 0.31399
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 86: loss 1.78252 perp 1.46593 kl 0.31660
+>>>>average [93mvalid[0m of epoch 86: loss 1.74468 perp 1.43552 kl 0.30917
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 87: loss 1.76911 perp 1.45401 kl 0.31509
+>>>>average [93mvalid[0m of epoch 87: loss 1.73031 perp 1.41936 kl 0.31095
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 88: loss 1.73806 perp 1.42403 kl 0.31404
+>>>>average [93mvalid[0m of epoch 88: loss 1.80659 perp 1.49559 kl 0.31100
+>>>>average [92mtraining[0m of epoch 89: loss 1.73711 perp 1.42154 kl 0.31557
+>>>>average [93mvalid[0m of epoch 89: loss 1.90672 perp 1.59591 kl 0.31081
+>>>>average [92mtraining[0m of epoch 90: loss 1.69306 perp 1.37901 kl 0.31405
+>>>>average [93mvalid[0m of epoch 90: loss 1.60877 perp 1.29649 kl 0.31228
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 91: loss 1.77717 perp 1.46361 kl 0.31356
+>>>>average [93mvalid[0m of epoch 91: loss 2.37846 perp 2.05434 kl 0.32412
+>>>>average [92mtraining[0m of epoch 92: loss 1.58275 perp 1.26733 kl 0.31542
+>>>>average [93mvalid[0m of epoch 92: loss 1.55695 perp 1.24828 kl 0.30867
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 93: loss 1.56035 perp 1.25160 kl 0.30875
+>>>>average [93mvalid[0m of epoch 93: loss 1.60645 perp 1.29637 kl 0.31008
+>>>>average [92mtraining[0m of epoch 94: loss 1.56582 perp 1.25803 kl 0.30779
+>>>>average [93mvalid[0m of epoch 94: loss 1.50089 perp 1.19369 kl 0.30720
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 95: loss 1.50247 perp 1.19523 kl 0.30723
+>>>>average [93mvalid[0m of epoch 95: loss 1.52536 perp 1.22363 kl 0.30173
+>>>>average [92mtraining[0m of epoch 96: loss 1.51537 perp 1.20914 kl 0.30624
+>>>>average [93mvalid[0m of epoch 96: loss 1.49385 perp 1.19280 kl 0.30105
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 97: loss 1.44668 perp 1.14421 kl 0.30247
+>>>>average [93mvalid[0m of epoch 97: loss 1.55060 perp 1.24878 kl 0.30182
+>>>>average [92mtraining[0m of epoch 98: loss 1.42646 perp 1.12455 kl 0.30191
+>>>>average [93mvalid[0m of epoch 98: loss 1.50904 perp 1.20550 kl 0.30354
+>>>>average [92mtraining[0m of epoch 99: loss 1.45847 perp 1.15476 kl 0.30371
+>>>>average [93mvalid[0m of epoch 99: loss 1.46057 perp 1.15882 kl 0.30175
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 100: loss 1.53814 perp 1.23154 kl 0.30659
+>>>>average [93mvalid[0m of epoch 100: loss 1.33365 perp 1.03252 kl 0.30113
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 101: loss 1.32111 perp 1.02077 kl 0.30034
+>>>>average [93mvalid[0m of epoch 101: loss 1.34908 perp 1.05467 kl 0.29441
+>>>>average [92mtraining[0m of epoch 102: loss 1.30949 perp 1.01333 kl 0.29616
+>>>>average [93mvalid[0m of epoch 102: loss 1.44707 perp 1.15683 kl 0.29024
+>>>>average [92mtraining[0m of epoch 103: loss 1.30090 perp 1.00647 kl 0.29443
+>>>>average [93mvalid[0m of epoch 103: loss 1.40881 perp 1.11658 kl 0.29223
+>>>>average [92mtraining[0m of epoch 104: loss 1.33482 perp 1.03933 kl 0.29549
+>>>>average [93mvalid[0m of epoch 104: loss 1.38127 perp 1.08667 kl 0.29460
+>>>>average [92mtraining[0m of epoch 105: loss 1.25715 perp 0.96294 kl 0.29421
+>>>>average [93mvalid[0m of epoch 105: loss 1.33584 perp 1.04433 kl 0.29151
+>>>>average [92mtraining[0m of epoch 106: loss 1.23777 perp 0.94537 kl 0.29240
+>>>>average [93mvalid[0m of epoch 106: loss 1.22269 perp 0.93720 kl 0.28549
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 107: loss 1.23380 perp 0.94306 kl 0.29074
+>>>>average [93mvalid[0m of epoch 107: loss 1.27766 perp 0.98891 kl 0.28875
+>>>>average [92mtraining[0m of epoch 108: loss 1.19446 perp 0.90531 kl 0.28915
+>>>>average [93mvalid[0m of epoch 108: loss 1.28539 perp 1.00006 kl 0.28533
+>>>>average [92mtraining[0m of epoch 109: loss 1.18399 perp 0.89574 kl 0.28826
+>>>>average [93mvalid[0m of epoch 109: loss 1.25935 perp 0.97686 kl 0.28249
+>>>>average [92mtraining[0m of epoch 110: loss 1.18603 perp 0.89920 kl 0.28682
+>>>>average [93mvalid[0m of epoch 110: loss 1.20881 perp 0.92491 kl 0.28391
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 111: loss 1.13063 perp 0.84584 kl 0.28478
+>>>>average [93mvalid[0m of epoch 111: loss 1.17717 perp 0.89790 kl 0.27927
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 112: loss 1.35721 perp 1.06679 kl 0.29042
+>>>>average [93mvalid[0m of epoch 112: loss 1.13946 perp 0.85076 kl 0.28870
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 113: loss 1.04764 perp 0.76297 kl 0.28467
+>>>>average [93mvalid[0m of epoch 113: loss 1.06160 perp 0.78280 kl 0.27880
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 114: loss 1.05202 perp 0.77187 kl 0.28016
+>>>>average [93mvalid[0m of epoch 114: loss 1.11424 perp 0.83685 kl 0.27739
+>>>>average [92mtraining[0m of epoch 115: loss 1.03931 perp 0.76209 kl 0.27722
+>>>>average [93mvalid[0m of epoch 115: loss 1.12743 perp 0.85081 kl 0.27662
+>>>>average [92mtraining[0m of epoch 116: loss 1.24577 perp 0.96040 kl 0.28537
+>>>>average [93mvalid[0m of epoch 116: loss 1.02714 perp 0.74862 kl 0.27851
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 117: loss 0.97231 perp 0.69677 kl 0.27554
+>>>>average [93mvalid[0m of epoch 117: loss 1.11822 perp 0.84818 kl 0.27004
+>>>>average [92mtraining[0m of epoch 118: loss 0.99139 perp 0.71869 kl 0.27270
+>>>>average [93mvalid[0m of epoch 118: loss 1.00270 perp 0.73331 kl 0.26939
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 119: loss 1.13524 perp 0.86035 kl 0.27489
+>>>>average [93mvalid[0m of epoch 119: loss 1.03456 perp 0.75440 kl 0.28016
+>>>>average [92mtraining[0m of epoch 120: loss 0.93827 perp 0.66533 kl 0.27294
+>>>>average [93mvalid[0m of epoch 120: loss 1.05105 perp 0.78354 kl 0.26751
+>>>>average [92mtraining[0m of epoch 121: loss 0.94261 perp 0.67330 kl 0.26931
+>>>>average [93mvalid[0m of epoch 121: loss 1.02308 perp 0.75466 kl 0.26842
+>>>>average [92mtraining[0m of epoch 122: loss 0.95940 perp 0.69046 kl 0.26894
+>>>>average [93mvalid[0m of epoch 122: loss 1.02484 perp 0.76006 kl 0.26478
+>>>>average [92mtraining[0m of epoch 123: loss 0.93989 perp 0.67271 kl 0.26718
+>>>>average [93mvalid[0m of epoch 123: loss 1.08372 perp 0.81645 kl 0.26727
+>>>>average [92mtraining[0m of epoch 124: loss 0.93806 perp 0.67035 kl 0.26771
+>>>>average [93mvalid[0m of epoch 124: loss 0.97504 perp 0.71198 kl 0.26306
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 125: loss 0.91905 perp 0.65320 kl 0.26585
+>>>>average [93mvalid[0m of epoch 125: loss 1.01533 perp 0.74637 kl 0.26896
+>>>>average [92mtraining[0m of epoch 126: loss 1.01125 perp 0.74425 kl 0.26700
+>>>>average [93mvalid[0m of epoch 126: loss 3.15464 perp 2.87277 kl 0.28187
+>>>>average [92mtraining[0m of epoch 127: loss 0.89879 perp 0.62797 kl 0.27082
+>>>>average [93mvalid[0m of epoch 127: loss 0.92610 perp 0.66490 kl 0.26120
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 128: loss 0.85764 perp 0.59517 kl 0.26247
+>>>>average [93mvalid[0m of epoch 128: loss 0.92618 perp 0.66862 kl 0.25756
+>>>>average [92mtraining[0m of epoch 129: loss 0.84516 perp 0.58610 kl 0.25906
+>>>>average [93mvalid[0m of epoch 129: loss 0.88391 perp 0.62715 kl 0.25676
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 130: loss 0.99566 perp 0.73609 kl 0.25957
+>>>>average [93mvalid[0m of epoch 130: loss 1.22953 perp 0.95177 kl 0.27776
+>>>>average [92mtraining[0m of epoch 131: loss 0.80664 perp 0.54420 kl 0.26244
+>>>>average [93mvalid[0m of epoch 131: loss 0.84524 perp 0.59203 kl 0.25322
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 132: loss 0.79549 perp 0.54128 kl 0.25421
+>>>>average [93mvalid[0m of epoch 132: loss 0.87617 perp 0.62642 kl 0.24975
+>>>>average [92mtraining[0m of epoch 133: loss 0.77957 perp 0.52787 kl 0.25170
+>>>>average [93mvalid[0m of epoch 133: loss 0.85373 perp 0.60654 kl 0.24719
+>>>>average [92mtraining[0m of epoch 134: loss 0.82245 perp 0.57007 kl 0.25237
+>>>>average [93mvalid[0m of epoch 134: loss 0.87930 perp 0.62722 kl 0.25208
+>>>>average [92mtraining[0m of epoch 135: loss 0.84742 perp 0.59251 kl 0.25491
+>>>>average [93mvalid[0m of epoch 135: loss 0.94477 perp 0.68994 kl 0.25483
+>>>>average [92mtraining[0m of epoch 136: loss 0.77584 perp 0.52255 kl 0.25329
+>>>>average [93mvalid[0m of epoch 136: loss 0.83404 perp 0.58693 kl 0.24711
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 137: loss 0.79922 perp 0.54661 kl 0.25261
+>>>>average [93mvalid[0m of epoch 137: loss 0.80989 perp 0.56304 kl 0.24685
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 138: loss 0.74353 perp 0.49562 kl 0.24792
+>>>>average [93mvalid[0m of epoch 138: loss 0.90169 perp 0.66081 kl 0.24088
+>>>>average [92mtraining[0m of epoch 139: loss 0.79078 perp 0.54120 kl 0.24958
+>>>>average [93mvalid[0m of epoch 139: loss 0.79883 perp 0.55295 kl 0.24587
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 140: loss 0.73889 perp 0.49197 kl 0.24692
+>>>>average [93mvalid[0m of epoch 140: loss 0.85640 perp 0.61249 kl 0.24391
+>>>>average [92mtraining[0m of epoch 141: loss 0.72851 perp 0.48351 kl 0.24500
+>>>>average [93mvalid[0m of epoch 141: loss 0.80269 perp 0.56096 kl 0.24174
+>>>>average [92mtraining[0m of epoch 142: loss 0.90787 perp 0.65307 kl 0.25481
+>>>>average [93mvalid[0m of epoch 142: loss 0.73872 perp 0.49602 kl 0.24270
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 143: loss 0.65636 perp 0.41566 kl 0.24070
+>>>>average [93mvalid[0m of epoch 143: loss 0.75680 perp 0.51949 kl 0.23731
+>>>>average [92mtraining[0m of epoch 144: loss 0.67899 perp 0.44045 kl 0.23854
+>>>>average [93mvalid[0m of epoch 144: loss 0.76128 perp 0.52545 kl 0.23583
+>>>>average [92mtraining[0m of epoch 145: loss 0.77353 perp 0.53118 kl 0.24235
+>>>>average [93mvalid[0m of epoch 145: loss 0.75203 perp 0.51276 kl 0.23927
+>>>>average [92mtraining[0m of epoch 146: loss 0.68863 perp 0.44795 kl 0.24069
+>>>>average [93mvalid[0m of epoch 146: loss 0.73964 perp 0.50599 kl 0.23365
+>>>>average [92mtraining[0m of epoch 147: loss 0.65062 perp 0.41535 kl 0.23527
+>>>>average [93mvalid[0m of epoch 147: loss 0.73586 perp 0.50371 kl 0.23214
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 148: loss 0.65946 perp 0.42498 kl 0.23448
+>>>>average [93mvalid[0m of epoch 148: loss 0.72268 perp 0.49196 kl 0.23072
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 149: loss 0.66205 perp 0.42882 kl 0.23323
+>>>>average [93mvalid[0m of epoch 149: loss 0.73908 perp 0.50895 kl 0.23014
+>>>>average [92mtraining[0m of epoch 150: loss 0.67351 perp 0.43827 kl 0.23524
+>>>>average [93mvalid[0m of epoch 150: loss 0.71184 perp 0.47860 kl 0.23324
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 151: loss 0.65913 perp 0.42514 kl 0.23399
+>>>>average [93mvalid[0m of epoch 151: loss 0.79270 perp 0.56225 kl 0.23045
+>>>>average [92mtraining[0m of epoch 152: loss 0.68684 perp 0.45272 kl 0.23413
+>>>>average [93mvalid[0m of epoch 152: loss 0.74231 perp 0.50671 kl 0.23560
+>>>>average [92mtraining[0m of epoch 153: loss 0.62487 perp 0.39277 kl 0.23210
+>>>>average [93mvalid[0m of epoch 153: loss 0.72154 perp 0.49387 kl 0.22767
+>>>>average [92mtraining[0m of epoch 154: loss 0.64308 perp 0.41235 kl 0.23073
+>>>>average [93mvalid[0m of epoch 154: loss 0.86772 perp 0.63721 kl 0.23051
+>>>>average [92mtraining[0m of epoch 155: loss 0.62673 perp 0.39671 kl 0.23001
+>>>>average [93mvalid[0m of epoch 155: loss 0.69829 perp 0.47093 kl 0.22737
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 156: loss 0.60147 perp 0.37424 kl 0.22723
+>>>>average [93mvalid[0m of epoch 156: loss 0.66954 perp 0.44770 kl 0.22184
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 157: loss 0.66305 perp 0.43315 kl 0.22990
+>>>>average [93mvalid[0m of epoch 157: loss 0.67711 perp 0.44704 kl 0.23007
+>>>>average [92mtraining[0m of epoch 158: loss 0.59358 perp 0.36659 kl 0.22699
+>>>>average [93mvalid[0m of epoch 158: loss 0.68527 perp 0.46232 kl 0.22295
+>>>>average [92mtraining[0m of epoch 159: loss 0.61523 perp 0.38756 kl 0.22767
+>>>>average [93mvalid[0m of epoch 159: loss 0.67401 perp 0.45194 kl 0.22207
+>>>>average [92mtraining[0m of epoch 160: loss 0.61332 perp 0.38542 kl 0.22791
+>>>>average [93mvalid[0m of epoch 160: loss 0.65632 perp 0.43470 kl 0.22162
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 161: loss 0.57762 perp 0.35516 kl 0.22246
+>>>>average [93mvalid[0m of epoch 161: loss 0.75711 perp 0.53370 kl 0.22341
+>>>>average [92mtraining[0m of epoch 162: loss 0.57258 perp 0.34980 kl 0.22278
+>>>>average [93mvalid[0m of epoch 162: loss 0.64911 perp 0.43219 kl 0.21692
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 163: loss 0.56662 perp 0.34696 kl 0.21966
+>>>>average [93mvalid[0m of epoch 163: loss 0.66623 perp 0.44759 kl 0.21864
+>>>>average [92mtraining[0m of epoch 164: loss 0.69632 perp 0.47185 kl 0.22447
+>>>>average [93mvalid[0m of epoch 164: loss 0.64268 perp 0.41962 kl 0.22306
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 165: loss 0.51353 perp 0.29475 kl 0.21878
+>>>>average [93mvalid[0m of epoch 165: loss 0.68631 perp 0.47082 kl 0.21549
+>>>>average [92mtraining[0m of epoch 166: loss 0.51371 perp 0.29896 kl 0.21475
+>>>>average [93mvalid[0m of epoch 166: loss 0.61040 perp 0.40022 kl 0.21019
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 167: loss 0.53940 perp 0.32588 kl 0.21352
+>>>>average [93mvalid[0m of epoch 167: loss 0.65024 perp 0.43539 kl 0.21485
+>>>>average [92mtraining[0m of epoch 168: loss 0.54817 perp 0.33244 kl 0.21573
+>>>>average [93mvalid[0m of epoch 168: loss 0.59932 perp 0.38904 kl 0.21028
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 169: loss 0.54950 perp 0.33470 kl 0.21480
+>>>>average [93mvalid[0m of epoch 169: loss 0.70043 perp 0.48985 kl 0.21059
+>>>>average [92mtraining[0m of epoch 170: loss 0.55170 perp 0.33603 kl 0.21567
+>>>>average [93mvalid[0m of epoch 170: loss 0.57655 perp 0.36970 kl 0.20685
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 171: loss 0.50388 perp 0.29402 kl 0.20985
+>>>>average [93mvalid[0m of epoch 171: loss 0.60665 perp 0.39924 kl 0.20741
+>>>>average [92mtraining[0m of epoch 172: loss 0.54446 perp 0.33234 kl 0.21213
+>>>>average [93mvalid[0m of epoch 172: loss 0.59438 perp 0.38741 kl 0.20697
+>>>>average [92mtraining[0m of epoch 173: loss 0.52858 perp 0.31614 kl 0.21243
+>>>>average [93mvalid[0m of epoch 173: loss 0.58530 perp 0.37616 kl 0.20914
+>>>>average [92mtraining[0m of epoch 174: loss 0.69524 perp 0.47733 kl 0.21791
+>>>>average [93mvalid[0m of epoch 174: loss 0.56165 perp 0.34548 kl 0.21618
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 175: loss 0.43466 perp 0.22580 kl 0.20886
+>>>>average [93mvalid[0m of epoch 175: loss 0.54156 perp 0.34007 kl 0.20149
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 176: loss 0.44926 perp 0.24703 kl 0.20223
+>>>>average [93mvalid[0m of epoch 176: loss 0.62794 perp 0.42487 kl 0.20306
+>>>>average [92mtraining[0m of epoch 177: loss 0.47544 perp 0.27187 kl 0.20357
+>>>>average [93mvalid[0m of epoch 177: loss 0.56563 perp 0.36449 kl 0.20114
+>>>>average [92mtraining[0m of epoch 178: loss 0.47324 perp 0.27231 kl 0.20093
+>>>>average [93mvalid[0m of epoch 178: loss 0.59902 perp 0.39888 kl 0.20013
+>>>>average [92mtraining[0m of epoch 179: loss 0.48912 perp 0.28700 kl 0.20212
+>>>>average [93mvalid[0m of epoch 179: loss 0.58913 perp 0.38915 kl 0.19999
+>>>>average [92mtraining[0m of epoch 180: loss 0.49114 perp 0.28876 kl 0.20238
+>>>>average [93mvalid[0m of epoch 180: loss 0.56968 perp 0.37027 kl 0.19942
+>>>>average [92mtraining[0m of epoch 181: loss 0.47276 perp 0.27235 kl 0.20041
+>>>>average [93mvalid[0m of epoch 181: loss 0.54489 perp 0.34636 kl 0.19853
+>>>>average [92mtraining[0m of epoch 182: loss 0.47926 perp 0.27821 kl 0.20105
+>>>>average [93mvalid[0m of epoch 182: loss 0.58871 perp 0.39194 kl 0.19677
+>>>>average [92mtraining[0m of epoch 183: loss 0.52793 perp 0.32764 kl 0.20030
+>>>>average [93mvalid[0m of epoch 183: loss 0.56002 perp 0.35398 kl 0.20604
+>>>>average [92mtraining[0m of epoch 184: loss 0.42862 perp 0.22937 kl 0.19926
+>>>>average [93mvalid[0m of epoch 184: loss 0.51623 perp 0.32323 kl 0.19300
+saving to best model since this is the best valid loss so far.----
+>>>>average [92mtraining[0m of epoch 185: loss 0.45336 perp 0.25677 kl 0.19659
+>>>>average [93mvalid[0m of epoch 185: loss 0.53097 perp 0.33986 kl 0.19111
+>>>>average [92mtraining[0m of epoch 186: loss 0.45211 perp 0.25713 kl 0.19497
+>>>>average [93mvalid[0m of epoch 186: loss 0.53350 perp 0.33733 kl 0.19616
+>>>>average [92mtraining[0m of epoch 187: loss 0.44899 perp 0.25366 kl 0.19532
+>>>>average [93mvalid[0m of epoch 187: loss 0.52386 perp 0.32843 kl 0.19543
+>>>>average [92mtraining[0m of epoch 188: loss 0.44795 perp 0.25341 kl 0.19454
+>>>>average [93mvalid[0m of epoch 188: loss 0.52927 perp 0.33780 kl 0.19146
+>>>>average [92mtraining[0m of epoch 189: loss 0.46259 perp 0.26698 kl 0.19561
+>>>>average [93mvalid[0m of epoch 189: loss 0.57901 perp 0.38500 kl 0.19401
+>>>>average [92mtraining[0m of epoch 190: loss 0.46373 perp 0.26728 kl 0.19645
+>>>>average [93mvalid[0m of epoch 190: loss 0.55212 perp 0.35834 kl 0.19377
+>>>>average [92mtraining[0m of epoch 191: loss 0.43866 perp 0.24417 kl 0.19449
+>>>>average [93mvalid[0m of epoch 191: loss 0.54266 perp 0.35090 kl 0.19176
